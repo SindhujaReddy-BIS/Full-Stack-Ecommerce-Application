@@ -2,8 +2,6 @@
 
 A full-stack e-commerce web application with a React frontend and a Java Spring Boot REST API. The application is organized around customer shopping flows and role-based administration/seller operations.
 
-> **Project note:** This repository is a learning and portfolio project. It was developed using course material as a foundation and extended/organized for portfolio publication. Course/source attribution and the author's publication permission should be respected.
-
 ## Overview
 
 The project brings together a browser-based storefront and a RESTful backend. The frontend communicates with the backend through Axios. The backend uses Spring MVC, Spring Security, Spring Data JPA, and PostgreSQL for application data.
